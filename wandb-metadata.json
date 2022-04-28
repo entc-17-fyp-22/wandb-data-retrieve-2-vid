@@ -1,0 +1,26 @@
+{
+    "os": "Linux-3.10.0-1160.36.2.el7.x86_64-x86_64-with-centos-7.9.2009-Core",
+    "python": "3.6.13",
+    "heartbeatAt": "2021-11-05T13:35:03.818224",
+    "startedAt": "2021-11-05T13:34:57.208848",
+    "docker": null,
+    "gpu": "Tesla V100-PCIE-32GB",
+    "gpu_count": 1,
+    "cpu_count": 32,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/n/home12/ramith/.local/share/jupyter/runtime/kernel-0c9be6a4-624d-45ec-aa4e-d3033a813be2.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/entc-17-fyp-22/QPM_ImagingD2NN_experiments",
+        "commit": "023fcef76f9942ea8ad0b96301bd6865bc0d2544"
+    },
+    "email": "ramithuh@live.com",
+    "root": "/n/home12/ramith/FYP/QPM_ImagingD2NN_experiments",
+    "host": "holygpu2c0701.rc.fas.harvard.edu",
+    "username": "ramith",
+    "executable": "/n/home12/ramith/.conda/envs/fyp_env/bin/python"
+}
